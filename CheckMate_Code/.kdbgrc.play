@@ -1,0 +1,24 @@
+[Breakpoint 0]
+Enabled=false
+File=fourinarow.cpp
+Line=62
+Temporary=false
+
+[Breakpoint 1]
+Enabled=false
+File=play.cpp
+Line=228
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
